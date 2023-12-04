@@ -1,0 +1,15 @@
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\obj\Debug\UnitTestProject2.csproj.CopyComplete
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+C:\Users\lab_services_student\Downloads\FINAL_POE\FINAL_POE\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
